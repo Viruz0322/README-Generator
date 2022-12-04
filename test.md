@@ -1,9 +1,9 @@
-# Cool Beans
+# tests
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-Making Cool Beans
+test
 
   ## Table of Contents
   -(#description)
@@ -18,17 +18,17 @@ Making Cool Beans
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Installation
-Just plug and play
+tests
 
   ## Usage
-To make Cool Beans
+tests
 
   ## Credits
-Mr Cool Bean
+tests
 
   ## Contribution
-gmail@gmail.com and Gmail@github
+tests
 
   ## Tests
-How cool the beans are
+tests
 

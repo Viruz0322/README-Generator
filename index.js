@@ -11,16 +11,19 @@ const questions = [
         message: "What do you want your README file to be named?",
         name: "fileName"
    },
+   //Cool Name
     {
         type: "input",
         message: "What is the name of your project?",
         name: "title"
     },
+    //Description of the project
     {
         type: "input",
         message: "What is your project about?",
         name: "description"
     },
+    //Badges
     {
     type: "list",
     message: "What kind of licence is your project?",
@@ -32,6 +35,36 @@ const questions = [
         {name: 'ISC', value:"[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)"},
         ]
     },
+    //Installation
+    {
+        type: "input",
+        message: 'What is the installation process if any?',
+        name: "installation"
+    },
+    //Usage
+    {
+        type: "input",
+        message: "What is this used for?",
+        name: "usage"
+    },
+    //Credits
+    {
+        type: "input",
+        message: "Aside from yourself, who else contributed to the project?",
+        name: "credits"
+    },
+    //How to Contribute
+    {
+        type: "input",
+        message: "Where can other reach you for contribution?",
+        name: "contribution"
+    },
+    //Tests
+    {
+        type: "input",
+        message: "What kind of tests were run?",
+        name: "tests"
+    } 
 ];
 
 // TODO: Create a function to write README file
